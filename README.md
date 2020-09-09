@@ -11,7 +11,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 **should be able to list the repositories:**
 Para que esse teste passe, sua aplicação deve permitir que seja retornado um array com todos os repositórios que foram criados até o momento.
 
-***should be able to update repository:*
+**should be able to update repository:**
 Para que esse teste passe, sua aplicação deve permitir que sejam alterados apenas os campos url, title e techs.
 
 **should not be able to update a repository that does not exist:**
@@ -38,4 +38,7 @@ Para que esse teste passe, você deve validar na sua rota de like se o id do rep
 
 ##### Para executar a aplicação, rode em seu terminal o senginte código:
  > yarn dev
+
+##### Para baixar as dependências, rode em seu terminal o senginte código:
+ > yarn
 
